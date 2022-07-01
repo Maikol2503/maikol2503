@@ -1,5 +1,7 @@
   <img src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif">
-### Hello! I'm Maicol, Full Stack Developer Student 👋
+<h2>
+        Hello! I'm Maicol, Full Stack Developer Student.
+    </h2>
 
 <!--
 **Maikol2503/maikol2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
