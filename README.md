@@ -5,11 +5,11 @@
     Passionate about the world of design, programming
      and digital creativity.
      Always delighted to take on the challenges of this field such as the constant learning of new languages, tools...
-     <div style="display: flex; align-items: center;">
+    <div style="display: flex; align-items: center;">
     <img src="http://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png"  style="width:200px ; " alt="">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPWaFka1Vh1VLB0VpnDhnNJPzgyUBgq24frTl4T1oJv8fsCBjCndFdVdiwGfa7et8wKiQ&usqp=CAU"  style="width:60px; margin-bottom:9px;"  alt="">
-    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt=""  style="width:80px ; margin-bottom: 15px;" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt=""  style="width:43px ; margin-bottom: 15px;" >
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPWaFka1Vh1VLB0VpnDhnNJPzgyUBgq24frTl4T1oJv8fsCBjCndFdVdiwGfa7et8wKiQ&usqp=CAU"  style="width:60px; margin-bottom: 2px;"  alt="">
+    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt=""  style="width:80px ; margin-top: 10px; margin-left: 5px;" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt=""  style="width:43px ; margin-top: 7px; margin-left: 5px;" >
   </div>
 
 <!--
