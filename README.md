@@ -1,6 +1,6 @@
   <img src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif">
     <h2>
-        Hello! I'm Maicol, Full Stack Developer Student.
+        Hello! I'm Maikol, Full Stack Developer Student.
     </h2>
     Passionate about the world of design, programming
      and digital creativity.
