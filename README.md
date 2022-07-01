@@ -1,7 +1,10 @@
   <img src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif">
-<h2>
+    <h2>
         Hello! I'm Maicol, Full Stack Developer Student.
     </h2>
+     Apasiona por el mundo del diseño, la programación
+     y la creatividad digital.
+     Siempre encantado de asumir los retos de este campo como el constante aprendizaje de nuevos lenguajes, herramientas...
 
 <!--
 **Maikol2503/maikol2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
