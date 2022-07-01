@@ -2,9 +2,9 @@
     <h2>
         Hello! I'm Maicol, Full Stack Developer Student.
     </h2>
-     Apasiona por el mundo del diseño, la programación
-     y la creatividad digital.
-     Siempre encantado de asumir los retos de este campo como el constante aprendizaje de nuevos lenguajes, herramientas...
+    Passionate about the world of design, programming
+     and digital creativity.
+     Always delighted to take on the challenges of this field such as the constant learning of new languages, tools...
 
 <!--
 **Maikol2503/maikol2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
