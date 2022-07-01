@@ -1,4 +1,4 @@
-### ¡Hola! Soy Maicol, Estudiante Desarrollador Full Stack 👋
+### Hello! I'm Maicol, Full Stack Developer Student 👋
 
 <!--
 **Maikol2503/maikol2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
