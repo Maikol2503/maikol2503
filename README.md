@@ -1,3 +1,4 @@
+  <img src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif">
 ### Hello! I'm Maicol, Full Stack Developer Student 👋
 
 <!--
