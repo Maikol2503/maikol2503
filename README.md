@@ -6,7 +6,7 @@
      and digital creativity.
      Always delighted to take on the challenges of this field such as the constant learning of new languages, tools...
      
-     Connect with me:
+ 
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/maikol.garrido.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/maikol.garrido.9" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/maikol2503/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/maikol2503/" height="30" width="40" /></a>
