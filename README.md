@@ -60,6 +60,37 @@
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="php" height="40"/> 
   </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="php" height="40"/> 
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://qloudea.com/blog/wp-content/uploads/2022/11/mysql-logo.jpg" alt="php" height="40"/> 
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg" alt="php" height="40"/> 
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUlRkXk1UeKipfdewawICcnrNjEBcD8aqTnzrcck5MA&s" alt="php" height="40"/> 
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="php" 
+     height="40"/> 
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="php" height="40"/> 
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="php" height="40"/> 
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="" alt="php" height="40"/> 
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="" alt="php" height="40"/> 
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="" alt="php" height="40"/> 
+  </a>
 </p>
 
 <!--
