@@ -7,7 +7,7 @@
      Always delighted to take on the challenges of this field such as the constant learning of new languages, tools...
      
  
-<p align="left">
+<div align="left">
 <br>
 <a href="https://www.facebook.com/maikol.garrido.9" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
@@ -22,7 +22,7 @@
   alt="https://www.linkedin.com/in/maikol-garrido-385933238/"  width="30" />
 </a>
 
-</p>
+</div>
 
 <h2 align="left">Languages and Tools:</h2>
 
