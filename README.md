@@ -22,6 +22,11 @@
   alt="https://www.linkedin.com/in/maikol-garrido-385933238/"  width="30" />
 </a>
 
+<!--  <a href="" target="blank">
+  <img align="center" src="" 
+  alt=""  width="30" />
+</a> -->
+
 </div>
 
 <h2 align="left">Languages and Tools:</h2>
@@ -81,16 +86,11 @@
   </a>
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="php" height="40"/> 
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
+  </a>  
+  
+  <!--   <a href="" target="_blank" rel="noreferrer">
     <img src="" alt="php" height="40"/> 
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="php" height="40"/> 
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="php" height="40"/> 
-  </a>
+  </a> -->
 </p>
 
 <!--
